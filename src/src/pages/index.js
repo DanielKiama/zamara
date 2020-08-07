@@ -13,7 +13,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <Banner/>
-    <Services/>
+    <Services/> 
     <ZamaraApp/>
     <News/>
   </Layout>
